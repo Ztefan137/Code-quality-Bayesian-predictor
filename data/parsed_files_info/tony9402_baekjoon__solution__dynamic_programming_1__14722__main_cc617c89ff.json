@@ -1,0 +1,23 @@
+{
+    "comment_percentage": 7.32,
+    "cyclomatic_complexity": 7,
+    "variable_counts": {
+        "DP": 2,
+        "y": 2,
+        "x": 2,
+        "milk": 4,
+        "ret": 8,
+        "dir": 4,
+        "dy": 1,
+        "dx": 1,
+        "ny": 5,
+        "N": 4,
+        "nx": 5,
+        "V": 1,
+        "go": 2,
+        "i": 2,
+        "j": 2
+    },
+    "const_keyword_count": 2,
+    "constant_count": 28
+}

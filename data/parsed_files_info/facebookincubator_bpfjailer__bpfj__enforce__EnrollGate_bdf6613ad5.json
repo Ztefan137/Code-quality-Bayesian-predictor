@@ -1,0 +1,11 @@
+{
+    "comment_percentage": 6.41,
+    "cyclomatic_complexity": 15,
+    "variable_counts": {
+        "set": 3,
+        "policy": 1,
+        "pod": 1
+    },
+    "const_keyword_count": 5,
+    "constant_count": 0
+}

@@ -1,0 +1,22 @@
+{
+    "comment_percentage": 4.92,
+    "cyclomatic_complexity": 7,
+    "variable_counts": {
+        "uf": 5,
+        "x": 4,
+        "find": 3,
+        "a": 6,
+        "b": 6,
+        "i": 11,
+        "N": 3,
+        "v": 1,
+        "M": 1,
+        "merge": 1,
+        "j": 5,
+        "w": 1,
+        "f": 2,
+        "s": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 9
+}

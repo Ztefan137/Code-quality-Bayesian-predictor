@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 6.67,
+    "cyclomatic_complexity": 25,
+    "variable_counts": {
+        "i": 32,
+        "matrix": 13,
+        "j": 28,
+        "queue": 2
+    },
+    "const_keyword_count": 2,
+    "constant_count": 26
+}

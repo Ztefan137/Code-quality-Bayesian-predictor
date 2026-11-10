@@ -1,0 +1,20 @@
+{
+    "comment_percentage": 13.19,
+    "cyclomatic_complexity": 13,
+    "variable_counts": {
+        "sc": 4,
+        "scale": 3,
+        "scales": 2,
+        "index": 10,
+        "i": 20,
+        "notes": 7,
+        "ret": 6,
+        "n": 8,
+        "cc": 4,
+        "chords": 2,
+        "chord": 1,
+        "inversion": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 1001
+}

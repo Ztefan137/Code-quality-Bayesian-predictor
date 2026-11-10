@@ -1,0 +1,13 @@
+{
+    "comment_percentage": 10.34,
+    "cyclomatic_complexity": 6,
+    "variable_counts": {
+        "x": 4,
+        "i": 6,
+        "n": 1,
+        "isPrime": 1,
+        "answer": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 6
+}

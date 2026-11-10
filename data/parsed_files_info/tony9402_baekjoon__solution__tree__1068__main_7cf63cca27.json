@@ -1,0 +1,18 @@
+{
+    "comment_percentage": 6.67,
+    "cyclomatic_complexity": 8,
+    "variable_counts": {
+        "isOk": 1,
+        "answer": 1,
+        "i": 10,
+        "N": 2,
+        "tmp": 2,
+        "root": 3,
+        "tree": 4,
+        "del": 3,
+        "j": 4,
+        "dfs": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 6
+}

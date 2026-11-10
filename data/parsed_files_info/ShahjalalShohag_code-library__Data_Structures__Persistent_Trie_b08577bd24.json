@@ -1,0 +1,27 @@
+{
+    "comment_percentage": 5.13,
+    "cyclomatic_complexity": 8,
+    "variable_counts": {
+        "l": 5,
+        "cur": 4,
+        "N": 1,
+        "version": 2,
+        "time": 2,
+        "last": 3,
+        "K": 2,
+        "i": 10,
+        "a": 3,
+        "v": 8,
+        "bit": 4,
+        "child": 3,
+        "x": 3,
+        "ans": 2,
+        "n": 2,
+        "q": 2,
+        "insert": 1,
+        "r": 3,
+        "query": 1
+    },
+    "const_keyword_count": 3,
+    "constant_count": 27
+}

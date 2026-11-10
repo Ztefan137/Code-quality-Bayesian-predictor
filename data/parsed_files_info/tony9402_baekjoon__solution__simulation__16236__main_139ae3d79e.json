@@ -1,0 +1,29 @@
+{
+    "comment_percentage": 3.95,
+    "cyclomatic_complexity": 18,
+    "variable_counts": {
+        "i": 4,
+        "n": 4,
+        "j": 4,
+        "Map": 5,
+        "sy": 5,
+        "sx": 5,
+        "done": 2,
+        "q": 3,
+        "visited": 3,
+        "times": 2,
+        "qsize": 1,
+        "sharkSize": 3,
+        "ny": 7,
+        "nx": 4,
+        "k": 4,
+        "dy": 1,
+        "dx": 1,
+        "qy": 6,
+        "qx": 6,
+        "ate": 2,
+        "answer": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 28
+}

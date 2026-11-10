@@ -1,0 +1,17 @@
+{
+    "comment_percentage": 4.0,
+    "cyclomatic_complexity": 17,
+    "variable_counts": {
+        "i": 20,
+        "bingo": 13,
+        "j": 12,
+        "used": 5,
+        "line": 5,
+        "board": 1,
+        "number": 1,
+        "marking": 1,
+        "x": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 29
+}

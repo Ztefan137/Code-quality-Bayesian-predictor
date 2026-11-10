@@ -1,0 +1,15 @@
+{
+    "comment_percentage": 20.25,
+    "cyclomatic_complexity": 4,
+    "variable_counts": {
+        "LUA": 14,
+        "index": 3,
+        "map": 1,
+        "lua_ref_timer_Create": 1,
+        "identifier": 2,
+        "lua_ref_hook_Add": 1,
+        "event": 1
+    },
+    "const_keyword_count": 5,
+    "constant_count": 15
+}

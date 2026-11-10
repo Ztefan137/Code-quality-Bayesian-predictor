@@ -1,0 +1,20 @@
+{
+    "comment_percentage": 54.26,
+    "cyclomatic_complexity": 9,
+    "variable_counts": {
+        "i": 5,
+        "bit": 5,
+        "s": 1,
+        "T": 1,
+        "coin": 1,
+        "ch": 1,
+        "Q": 2,
+        "used": 1,
+        "flag": 3,
+        "answer": 2,
+        "qsize": 1,
+        "cur": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 16
+}

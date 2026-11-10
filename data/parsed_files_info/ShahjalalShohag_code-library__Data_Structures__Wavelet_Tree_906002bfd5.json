@@ -1,0 +1,28 @@
+{
+    "comment_percentage": 11.5,
+    "cyclomatic_complexity": 19,
+    "variable_counts": {
+        "x": 6,
+        "y": 1,
+        "from": 6,
+        "to": 6,
+        "mid": 5,
+        "it": 4,
+        "f": 2,
+        "operator()": 1,
+        "l": 16,
+        "r": 16,
+        "k": 16,
+        "inLeft": 2,
+        "lb": 8,
+        "rb": 8,
+        "MAXN": 1,
+        "t": 1,
+        "a": 2,
+        "n": 1,
+        "MAXV": 2,
+        "q": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 41
+}

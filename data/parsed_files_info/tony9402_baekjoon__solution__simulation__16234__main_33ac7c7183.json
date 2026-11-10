@@ -1,0 +1,30 @@
+{
+    "comment_percentage": 4.0,
+    "cyclomatic_complexity": 14,
+    "variable_counts": {
+        "used": 5,
+        "a": 3,
+        "b": 3,
+        "q": 3,
+        "total": 1,
+        "Map": 3,
+        "cnt": 2,
+        "path": 1,
+        "k": 4,
+        "dy": 1,
+        "dx": 1,
+        "qy": 6,
+        "N": 6,
+        "qx": 6,
+        "L": 1,
+        "value": 2,
+        "R": 1,
+        "i": 8,
+        "j": 6,
+        "Q": 2,
+        "answer": 1,
+        "qsize": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 26
+}

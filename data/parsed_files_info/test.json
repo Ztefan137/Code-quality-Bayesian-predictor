@@ -1,0 +1,30 @@
+{
+    "comment_percentage": 0.0,
+    "cyclomatic_complexity": 6,
+    "variable_counts": {
+        "operator[]": 5,
+        "first_village": 4,
+        "second_village": 4,
+        "distance": 4,
+        "input": 1,
+        "output": 1,
+        "operator>>": 7,
+        "idx": 2,
+        "curr_village": 3,
+        "curr_distance": 3,
+        "__begin1": 1,
+        "operator*": 1,
+        "road": 2,
+        "next_village": 5,
+        "operator=": 1,
+        "is_previous_village": 1,
+        "road_length": 2,
+        "initial_distance": 1,
+        "operator<<": 1,
+        "fin": 1,
+        "fout": 1,
+        "sate": 3
+    },
+    "const_keyword_count": 0,
+    "constant_count": 9
+}

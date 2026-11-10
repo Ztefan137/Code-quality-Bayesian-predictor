@@ -1,0 +1,31 @@
+{
+    "comment_percentage": 11.64,
+    "cyclomatic_complexity": 38,
+    "variable_counts": {
+        "_val": 4,
+        "t": 114,
+        "l": 33,
+        "r": 53,
+        "add": 2,
+        "idx": 2,
+        "k": 6,
+        "val": 4,
+        "to_add": 1,
+        "mid": 23,
+        "pos": 3,
+        "qL": 15,
+        "qR": 9,
+        "answer": 1,
+        "v": 1,
+        "left_shift": 1,
+        "fh": 3,
+        "sh": 3,
+        "son": 3,
+        "curr": 14,
+        "x": 1,
+        "cur": 3,
+        "i": 5
+    },
+    "const_keyword_count": 2,
+    "constant_count": 78
+}

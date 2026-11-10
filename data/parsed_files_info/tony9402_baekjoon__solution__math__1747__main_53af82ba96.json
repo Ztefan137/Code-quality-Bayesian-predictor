@@ -1,0 +1,15 @@
+{
+    "comment_percentage": 7.89,
+    "cyclomatic_complexity": 7,
+    "variable_counts": {
+        "x": 7,
+        "i": 4,
+        "rev": 3,
+        "origin": 1,
+        "isPalindrome": 1,
+        "n": 3,
+        "isPrime": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 8
+}

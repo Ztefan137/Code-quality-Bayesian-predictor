@@ -1,0 +1,22 @@
+{
+    "comment_percentage": 10.87,
+    "cyclomatic_complexity": 17,
+    "variable_counts": {
+        "i": 15,
+        "j": 15,
+        "chess": 8,
+        "nextwall": 2,
+        "wall_count": 4,
+        "q": 3,
+        "check": 1,
+        "cur": 1,
+        "dy": 1,
+        "dx": 1,
+        "nextx": 6,
+        "nexty": 6,
+        "visited": 3,
+        "moveWall": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 58
+}

@@ -1,0 +1,79 @@
+#include "lua.h"
+#include "Logger.h"
+
+int lua_ref_hook_Add = -1;
+int lua_ref_hook_Run = -1;
+int lua_ref_timer_Create = -1;
+int lua_ref_timer_Exists = -1;
+
+// Builds a LUA table from a map and leaves it on the stack
+void map_to_lua_table(GarrysMod::Lua::ILuaBase* LUA, std::map<std::string, std::string> const& map)
+{
+    // Create a new table on the stack
+    LUA->CreateTable();
+
+    for (auto const& e : map) {
+        // Push key to stack
+        LUA->PushString(e.first.c_str());
+
+        // Push value to stack
+        LUA->PushString(e.second.c_str());
+
+        // Append both values to the table
+        LUA->SetTable(-3);
+    }
+}
+
+// Transfers values from a LUA Table on the stack (at the given offset)
+// into the given map.
+void lua_table_to_map(GarrysMod::Lua::ILuaBase* LUA, int index, std::map<std::string, std::string>& map)
+{
+    // Query the first entry (we're querying by key, nil = 1st)
+    LUA->PushNil();
+
+    // ->Next() gets the last key from the stack and pushes
+    // the key-value pair that follows that to the stack.
+    // key will now be top-2 and value will be top-1
+    while (LUA->Next(index < 0 ? index - 1 : index) != 0) {
+        // Remove entries with non-string keys
+        if (!LUA->IsType(-2, GarrysMod::Lua::Type::String)) {
+            Logger::devwarn("Ignoring non-string key in table!");
+            goto next;
+        }
+
+        // Remove entries with non-string values
+        if (!LUA->IsType(-1, GarrysMod::Lua::Type::String)) {
+            Logger::devwarn("Ignoring non-string value in table for key '%s'!", LUA->GetString(-2));
+            goto next;
+        }
+
+        map[LUA->GetString(-2)] = LUA->GetString(-1);
+
+    next:
+        // Pop value from the stack, key is needed for next iteration
+        LUA->Pop();
+    }
+}
+
+void register_zero_delay_timer(GarrysMod::Lua::ILuaBase* LUA, char const* identifier, GarrysMod::Lua::CFunc function)
+{
+    LUA->ReferencePush(lua_ref_timer_Create);
+    LUA->PushString(identifier);
+    LUA->PushNumber(0);
+    LUA->PushNumber(0);
+    LUA->PushCFunction(function);
+    LUA->Call(4, 0);
+}
+
+void register_hook(GarrysMod::Lua::ILuaBase* LUA, char const* event, char const* identifier, GarrysMod::Lua::CFunc function)
+{
+    LUA->ReferencePush(lua_ref_hook_Add);
+
+    // Push the new hook data
+    LUA->PushString(event);
+    LUA->PushString(identifier);
+    LUA->PushCFunction(function);
+
+    // Add the hook
+    LUA->Call(3, 0);
+}

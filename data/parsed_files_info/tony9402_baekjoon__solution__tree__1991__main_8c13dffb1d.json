@@ -1,0 +1,18 @@
+{
+    "comment_percentage": 8.33,
+    "cyclomatic_complexity": 8,
+    "variable_counts": {
+        "left": 7,
+        "adj": 8,
+        "root": 6,
+        "preorder_traverse": 3,
+        "right": 7,
+        "inorder_traverse": 3,
+        "prorder_traverse": 3,
+        "i": 2,
+        "n": 1,
+        "node": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 25
+}

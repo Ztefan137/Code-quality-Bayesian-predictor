@@ -1,0 +1,25 @@
+{
+    "comment_percentage": 3.7,
+    "cyclomatic_complexity": 13,
+    "variable_counts": {
+        "pos": 4,
+        "idx": 6,
+        "dm_alive": 6,
+        "x": 12,
+        "y": 12,
+        "score": 2,
+        "dest": 5,
+        "dm_len": 2,
+        "dx": 1,
+        "dy": 1,
+        "N": 3,
+        "M": 3,
+        "i": 7,
+        "j": 5,
+        "R": 1,
+        "offense": 1,
+        "defense": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 39
+}

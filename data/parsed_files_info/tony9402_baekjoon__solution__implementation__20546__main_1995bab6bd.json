@@ -1,0 +1,16 @@
+{
+    "comment_percentage": 5.17,
+    "cyclomatic_complexity": 7,
+    "variable_counts": {
+        "i": 14,
+        "info": 12,
+        "money": 10,
+        "cnt": 4,
+        "downCnt": 4,
+        "upCnt": 3,
+        "MachineJ": 1,
+        "MachineS": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 18
+}

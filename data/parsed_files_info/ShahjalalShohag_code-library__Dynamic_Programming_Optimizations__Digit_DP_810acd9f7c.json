@@ -1,0 +1,26 @@
+{
+    "comment_percentage": 0.0,
+    "cyclomatic_complexity": 16,
+    "variable_counts": {
+        "i": 14,
+        "pw": 4,
+        "b": 2,
+        "mask": 13,
+        "rem": 7,
+        "cnt": 2,
+        "dp": 3,
+        "f": 5,
+        "ret": 3,
+        "k": 9,
+        "m": 2,
+        "ans": 5,
+        "yo": 1,
+        "mod": 3,
+        "n": 4,
+        "v": 2,
+        "__builtin_popcount": 1,
+        "t": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 57
+}

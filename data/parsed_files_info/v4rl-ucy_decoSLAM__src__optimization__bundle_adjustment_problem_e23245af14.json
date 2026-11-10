@@ -1,0 +1,10 @@
+{
+    "comment_percentage": 6.25,
+    "cyclomatic_complexity": 1,
+    "variable_counts": {
+        "options": 1,
+        "solver_options": 2
+    },
+    "const_keyword_count": 16,
+    "constant_count": 2
+}

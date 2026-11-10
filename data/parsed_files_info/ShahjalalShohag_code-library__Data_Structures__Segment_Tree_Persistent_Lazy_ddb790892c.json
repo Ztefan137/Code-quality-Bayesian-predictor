@@ -1,0 +1,29 @@
+{
+    "comment_percentage": 1.56,
+    "cyclomatic_complexity": 26,
+    "variable_counts": {
+        "MOD": 29,
+        "mod": 1,
+        "N": 5,
+        "b": 30,
+        "e": 30,
+        "cur": 24,
+        "pre": 2,
+        "j": 4,
+        "i": 15,
+        "oth": 4,
+        "x": 4,
+        "y": 4,
+        "p": 4,
+        "s": 1,
+        "root": 6,
+        "t": 4,
+        "n": 4,
+        "q": 1,
+        "l": 1,
+        "r": 1,
+        "ans": 3
+    },
+    "const_keyword_count": 13,
+    "constant_count": 55
+}

@@ -1,0 +1,11 @@
+{
+    "comment_percentage": 2.89,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "whichType": 1,
+        "addressRet": 9,
+        "_wassert": 1
+    },
+    "const_keyword_count": 45,
+    "constant_count": 12
+}

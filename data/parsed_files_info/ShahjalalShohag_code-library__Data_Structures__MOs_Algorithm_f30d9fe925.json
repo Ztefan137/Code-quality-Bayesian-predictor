@@ -1,0 +1,26 @@
+{
+    "comment_percentage": 0.0,
+    "cyclomatic_complexity": 14,
+    "variable_counts": {
+        "B": 10,
+        "x": 24,
+        "N": 4,
+        "a": 4,
+        "i": 13,
+        "sum": 5,
+        "cnt": 12,
+        "q": 3,
+        "Q": 6,
+        "R": 5,
+        "l": 9,
+        "L": 4,
+        "add_left": 2,
+        "rem_left": 2,
+        "r": 8,
+        "add_right": 2,
+        "rem_right": 2,
+        "ans": 1
+    },
+    "const_keyword_count": 3,
+    "constant_count": 20
+}

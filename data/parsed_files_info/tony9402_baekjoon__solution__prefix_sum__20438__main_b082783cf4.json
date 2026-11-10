@@ -1,0 +1,18 @@
+{
+    "comment_percentage": 7.69,
+    "cyclomatic_complexity": 9,
+    "variable_counts": {
+        "i": 12,
+        "K": 1,
+        "sleep": 3,
+        "x": 4,
+        "Q": 1,
+        "j": 4,
+        "N": 2,
+        "used": 2,
+        "prefix": 3,
+        "M": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 14
+}

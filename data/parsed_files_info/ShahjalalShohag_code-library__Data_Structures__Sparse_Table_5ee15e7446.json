@@ -1,0 +1,19 @@
+{
+    "comment_percentage": 0.0,
+    "cyclomatic_complexity": 5,
+    "variable_counts": {
+        "N": 2,
+        "i": 9,
+        "n": 3,
+        "t": 6,
+        "a": 1,
+        "k": 10,
+        "__builtin_clz": 1,
+        "r": 3,
+        "l": 3,
+        "build": 1,
+        "q": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 19
+}

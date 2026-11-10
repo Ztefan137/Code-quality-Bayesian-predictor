@@ -1,0 +1,19 @@
+{
+    "comment_percentage": 6.25,
+    "cyclomatic_complexity": 13,
+    "variable_counts": {
+        "i": 21,
+        "j": 21,
+        "Quiz": 7,
+        "zeroCnt": 4,
+        "x": 4,
+        "y": 4,
+        "xy": 4,
+        "k": 12,
+        "solve": 2,
+        "input": 1,
+        "output": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 38
+}

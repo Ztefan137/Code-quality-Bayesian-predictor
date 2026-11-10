@@ -1,0 +1,31 @@
+{
+    "comment_percentage": 2.31,
+    "cyclomatic_complexity": 28,
+    "variable_counts": {
+        "_N": 1,
+        "_M": 1,
+        "y": 11,
+        "x": 14,
+        "type": 2,
+        "nx": 1,
+        "ny": 1,
+        "nx1": 2,
+        "ny1": 2,
+        "nx2": 2,
+        "ny2": 2,
+        "i": 11,
+        "j": 10,
+        "line": 2,
+        "score": 2,
+        "L": 2,
+        "hasLine": 4,
+        "ret": 2,
+        "N": 1,
+        "t": 5,
+        "Green": 4,
+        "Blue": 4,
+        "answer": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 33
+}

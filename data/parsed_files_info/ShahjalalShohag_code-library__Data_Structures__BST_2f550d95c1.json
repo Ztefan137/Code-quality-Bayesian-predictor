@@ -1,0 +1,23 @@
+{
+    "comment_percentage": 17.27,
+    "cyclomatic_complexity": 10,
+    "variable_counts": {
+        "malloc": 1,
+        "temp": 8,
+        "item": 1,
+        "root": 43,
+        "inorder": 4,
+        "cout": 4,
+        "operator<<": 5,
+        "node": 8,
+        "newNode": 1,
+        "key": 8,
+        "insert": 10,
+        "current": 5,
+        "deleteNode": 4,
+        "free": 2,
+        "minValueNode": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 21
+}

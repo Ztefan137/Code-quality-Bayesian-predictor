@@ -1,0 +1,20 @@
+{
+    "comment_percentage": 7.32,
+    "cyclomatic_complexity": 6,
+    "variable_counts": {
+        "MAXN": 1,
+        "uf": 5,
+        "x": 5,
+        "find": 4,
+        "a": 4,
+        "b": 4,
+        "i": 5,
+        "N": 1,
+        "M": 1,
+        "cur": 3,
+        "merge": 1,
+        "answer": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 9
+}

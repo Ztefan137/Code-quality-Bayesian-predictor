@@ -1,0 +1,33 @@
+{
+    "comment_percentage": 4.29,
+    "cyclomatic_complexity": 15,
+    "variable_counts": {
+        "y": 10,
+        "N": 5,
+        "x": 10,
+        "i": 10,
+        "j": 8,
+        "tmp": 2,
+        "arr": 4,
+        "cur": 2,
+        "flag": 3,
+        "cnt": 2,
+        "dy": 2,
+        "dir": 6,
+        "dx": 2,
+        "Map": 7,
+        "l": 5,
+        "m": 5,
+        "value": 1,
+        "curvalue": 3,
+        "inrange": 2,
+        "cury": 2,
+        "curx": 2,
+        "answer": 2,
+        "ny": 2,
+        "nx": 2,
+        "Turn": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 72
+}

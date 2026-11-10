@@ -1,0 +1,18 @@
+{
+    "comment_percentage": 10.21,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "userp": 2,
+        "contents": 1,
+        "size": 3,
+        "nmemb": 3,
+        "found": 3,
+        "existing_value": 3,
+        "strncmp": 1,
+        "string": 1,
+        "prefix": 2,
+        "strlen": 1
+    },
+    "const_keyword_count": 9,
+    "constant_count": 11
+}

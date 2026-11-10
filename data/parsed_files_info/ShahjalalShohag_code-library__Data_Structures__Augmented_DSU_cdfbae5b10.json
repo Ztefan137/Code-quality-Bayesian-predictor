@@ -1,0 +1,25 @@
+{
+    "comment_percentage": 30.19,
+    "cyclomatic_complexity": 6,
+    "variable_counts": {
+        "N": 2,
+        "flaw": 2,
+        "i": 7,
+        "n": 2,
+        "prec": 6,
+        "pot": 9,
+        "x": 8,
+        "find": 3,
+        "rx": 2,
+        "a": 4,
+        "b": 4,
+        "ra": 4,
+        "rb": 3,
+        "d": 3,
+        "initialize": 1,
+        "m": 1,
+        "merge": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 6
+}

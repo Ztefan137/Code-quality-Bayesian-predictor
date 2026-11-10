@@ -1,0 +1,33 @@
+{
+    "comment_percentage": 3.85,
+    "cyclomatic_complexity": 22,
+    "variable_counts": {
+        "s": 1,
+        "to_rev": 1,
+        "to_assign": 1,
+        "perform_reverse": 1,
+        "T": 3,
+        "i": 32,
+        "n": 5,
+        "B": 2,
+        "cur": 5,
+        "id": 6,
+        "cl": 4,
+        "cr": 3,
+        "t": 6,
+        "k": 2,
+        "a": 4,
+        "x": 3,
+        "split": 9,
+        "N": 4,
+        "q": 5,
+        "p": 7,
+        "ty": 5,
+        "rebuild": 2,
+        "l": 3,
+        "r": 3,
+        "j": 2
+    },
+    "const_keyword_count": 1,
+    "constant_count": 36
+}

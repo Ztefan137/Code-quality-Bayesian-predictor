@@ -1,0 +1,13 @@
+{
+    "comment_percentage": 8.82,
+    "cyclomatic_complexity": 4,
+    "variable_counts": {
+        "i": 2,
+        "N": 1,
+        "pokemon": 1,
+        "pokemonSeq": 1,
+        "Q": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 3
+}

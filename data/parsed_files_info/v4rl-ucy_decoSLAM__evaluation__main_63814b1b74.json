@@ -1,0 +1,14 @@
+{
+    "comment_percentage": 8.91,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "pose_id_file": 1,
+        "timestamped_ids": 1,
+        "pose_file": 4,
+        "poses_with_id": 1,
+        "separator": 7,
+        "argc": 1
+    },
+    "const_keyword_count": 28,
+    "constant_count": 19
+}

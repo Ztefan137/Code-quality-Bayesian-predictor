@@ -1,0 +1,26 @@
+{
+    "comment_percentage": 12.33,
+    "cyclomatic_complexity": 15,
+    "variable_counts": {
+        "cube": 3,
+        "i": 21,
+        "DB": 1,
+        "x": 1,
+        "turn": 1,
+        "faceNumber": 2,
+        "rev": 1,
+        "k": 2,
+        "executeCount": 1,
+        "j": 13,
+        "tmp": 2,
+        "base": 2,
+        "move": 2,
+        "nxt": 1,
+        "T": 1,
+        "init": 1,
+        "Q": 1,
+        "print": 1
+    },
+    "const_keyword_count": 5,
+    "constant_count": 111
+}

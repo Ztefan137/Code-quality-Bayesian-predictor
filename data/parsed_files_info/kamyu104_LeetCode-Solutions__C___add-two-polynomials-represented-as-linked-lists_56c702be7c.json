@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 6.45,
+    "cyclomatic_complexity": 5,
+    "variable_counts": {
+        "poly1": 5,
+        "curr": 6,
+        "poly2": 3,
+        "coef": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 0
+}

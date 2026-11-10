@@ -1,0 +1,32 @@
+{
+    "comment_percentage": 12.82,
+    "cyclomatic_complexity": 17,
+    "variable_counts": {
+        "sig": 2,
+        "cerr": 2,
+        "ui": 4,
+        "user_data": 2,
+        "rawmidi": 7,
+        "response": 1,
+        "devices": 4,
+        "d": 2,
+        "i": 3,
+        "device_select": 1,
+        "argc": 1,
+        "argv": 2,
+        "cmd": 1,
+        "mididevice": 1,
+        "scaling": 2,
+        "app": 1,
+        "signal": 2,
+        "signal_handler": 2,
+        "out": 3,
+        "sampleRate": 1,
+        "bufferSize": 1,
+        "showMidiDeviceSelect": 1,
+        "jb": 1,
+        "printf": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 25
+}

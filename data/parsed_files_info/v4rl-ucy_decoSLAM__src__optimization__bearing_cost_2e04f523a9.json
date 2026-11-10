@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 24.22,
+    "cyclomatic_complexity": 4,
+    "variable_counts": {
+        "normalization_jacobian": 10,
+        "left_jacobian": 1,
+        "jacobian": 2,
+        "right_jacobian": 1
+    },
+    "const_keyword_count": 24,
+    "constant_count": 28
+}

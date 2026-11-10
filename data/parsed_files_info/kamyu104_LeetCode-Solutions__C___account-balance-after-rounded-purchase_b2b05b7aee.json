@@ -1,0 +1,9 @@
+{
+    "comment_percentage": 30.0,
+    "cyclomatic_complexity": 1,
+    "variable_counts": {
+        "purchaseAmount": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 4
+}

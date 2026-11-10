@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 18.03,
+    "cyclomatic_complexity": 2,
+    "variable_counts": {
+        "argc": 1,
+        "signal": 1,
+        "mySigintHandler": 1,
+        "system": 1
+    },
+    "const_keyword_count": 3,
+    "constant_count": 5
+}

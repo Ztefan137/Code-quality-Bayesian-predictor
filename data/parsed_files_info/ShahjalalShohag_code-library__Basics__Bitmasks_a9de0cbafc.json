@@ -1,0 +1,27 @@
+{
+    "comment_percentage": 12.12,
+    "cyclomatic_complexity": 6,
+    "variable_counts": {
+        "cin": 2,
+        "operator>>": 5,
+        "n": 5,
+        "l": 2,
+        "r": 2,
+        "x": 2,
+        "i": 9,
+        "c": 4,
+        "mask": 3,
+        "total_problems": 2,
+        "total_difficulty": 3,
+        "min_difficulty": 3,
+        "min": 1,
+        "max_difficulty": 3,
+        "max": 1,
+        "abs": 1,
+        "ans": 2,
+        "cout": 1,
+        "operator<<": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 14
+}

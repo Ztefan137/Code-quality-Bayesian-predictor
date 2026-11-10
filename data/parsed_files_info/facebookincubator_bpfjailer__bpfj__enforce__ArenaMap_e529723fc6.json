@@ -1,0 +1,22 @@
+{
+    "comment_percentage": 1.42,
+    "cyclomatic_complexity": 30,
+    "variable_counts": {
+        "state": 4,
+        "snprintf": 1,
+        "buf": 3,
+        "value": 1,
+        "fd": 1,
+        "_errno": 1,
+        "ec": 3,
+        "used": 1,
+        "i": 2,
+        "no_buffer_space": 1,
+        "windowState": 1,
+        "reserveWindowOnce": 1,
+        "extra": 5,
+        "invalid_argument": 1
+    },
+    "const_keyword_count": 9,
+    "constant_count": 13
+}

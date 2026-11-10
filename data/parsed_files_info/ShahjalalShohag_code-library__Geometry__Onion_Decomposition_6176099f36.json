@@ -1,0 +1,31 @@
+{
+    "comment_percentage": 3.9,
+    "cyclomatic_complexity": 19,
+    "variable_counts": {
+        "p": 11,
+        "b": 2,
+        "operator-": 2,
+        "a": 3,
+        "c": 2,
+        "w": 6,
+        "l": 1,
+        "r": 1,
+        "d": 1,
+        "s1": 1,
+        "s2": 1,
+        "R": 2,
+        "L": 4,
+        "N": 2,
+        "n": 5,
+        "i": 10,
+        "x": 3,
+        "y": 3,
+        "pts": 3,
+        "id": 2,
+        "cnt": 1,
+        "ans": 2,
+        "layer": 1
+    },
+    "const_keyword_count": 8,
+    "constant_count": 19
+}

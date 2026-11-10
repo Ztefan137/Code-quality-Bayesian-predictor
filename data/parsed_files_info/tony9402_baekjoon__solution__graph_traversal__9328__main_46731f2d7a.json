@@ -1,0 +1,31 @@
+{
+    "comment_percentage": 4.46,
+    "cyclomatic_complexity": 21,
+    "variable_counts": {
+        "col": 8,
+        "m": 6,
+        "building": 13,
+        "entry": 5,
+        "row": 8,
+        "n": 6,
+        "ck": 4,
+        "q": 2,
+        "i": 6,
+        "r": 1,
+        "dr": 1,
+        "c": 1,
+        "dc": 1,
+        "nr": 14,
+        "nc": 14,
+        "keys": 3,
+        "key": 1,
+        "isNeedUpdate": 3,
+        "countDoc": 2,
+        "testCase": 1,
+        "j": 2,
+        "pushEntries": 1,
+        "bfs": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 53
+}

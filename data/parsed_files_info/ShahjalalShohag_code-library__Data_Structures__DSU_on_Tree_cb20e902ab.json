@@ -1,0 +1,21 @@
+{
+    "comment_percentage": 0.0,
+    "cyclomatic_complexity": 4,
+    "variable_counts": {
+        "N": 6,
+        "sz": 1,
+        "u": 7,
+        "cnt": 2,
+        "col": 1,
+        "x": 1,
+        "bigchild": 5,
+        "dsu": 1,
+        "big": 2,
+        "add": 2,
+        "p": 2,
+        "ans": 1,
+        "keep": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 14
+}

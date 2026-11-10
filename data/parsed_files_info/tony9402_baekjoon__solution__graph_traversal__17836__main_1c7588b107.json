@@ -1,0 +1,24 @@
+{
+    "comment_percentage": 8.33,
+    "cyclomatic_complexity": 10,
+    "variable_counts": {
+        "q": 3,
+        "visited": 3,
+        "i": 8,
+        "dx": 1,
+        "dy": 1,
+        "nextx": 7,
+        "nexty": 7,
+        "N": 5,
+        "M": 5,
+        "castle": 2,
+        "dist": 6,
+        "j": 4,
+        "sword": 1,
+        "bfs": 1,
+        "use_sword": 2,
+        "not_use_sword": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 30
+}

@@ -1,0 +1,32 @@
+{
+    "comment_percentage": 1.11,
+    "cyclomatic_complexity": 12,
+    "variable_counts": {
+        "x": 3,
+        "y": 1,
+        "p": 9,
+        "a": 27,
+        "b": 9,
+        "sign": 5,
+        "operator==": 1,
+        "dot": 1,
+        "operator-": 4,
+        "cross": 1,
+        "c": 1,
+        "N": 3,
+        "l": 5,
+        "n": 6,
+        "r": 5,
+        "dp": 2,
+        "i": 10,
+        "t": 1,
+        "v": 2,
+        "j": 4,
+        "it": 1,
+        "yo": 1,
+        "mid": 4,
+        "ans": 1
+    },
+    "const_keyword_count": 16,
+    "constant_count": 26
+}

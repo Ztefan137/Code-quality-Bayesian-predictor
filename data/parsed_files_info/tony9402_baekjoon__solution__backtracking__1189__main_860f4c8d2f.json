@@ -1,0 +1,24 @@
+{
+    "comment_percentage": 7.14,
+    "cyclomatic_complexity": 7,
+    "variable_counts": {
+        "r": 3,
+        "i": 7,
+        "_map": 1,
+        "cnt": 2,
+        "k": 1,
+        "y": 3,
+        "x": 3,
+        "c": 2,
+        "ans": 1,
+        "visited": 3,
+        "dx": 1,
+        "dy": 1,
+        "nx": 6,
+        "ny": 6,
+        "func": 2,
+        "input": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 28
+}

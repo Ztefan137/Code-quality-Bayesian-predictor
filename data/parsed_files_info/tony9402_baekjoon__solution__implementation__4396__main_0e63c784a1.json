@@ -1,0 +1,19 @@
+{
+    "comment_percentage": 5.88,
+    "cyclomatic_complexity": 11,
+    "variable_counts": {
+        "board": 3,
+        "n": 7,
+        "i": 6,
+        "j": 6,
+        "pushed_mine": 2,
+        "k": 4,
+        "dy": 1,
+        "dx": 1,
+        "qy": 3,
+        "qx": 3,
+        "mine": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 28
+}

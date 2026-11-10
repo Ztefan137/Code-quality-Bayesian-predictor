@@ -1,0 +1,15 @@
+{
+    "comment_percentage": 21.46,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "data": 30,
+        "out": 24,
+        "value": 2,
+        "start": 4,
+        "i": 5,
+        "bytes": 1,
+        "outdata": 2
+    },
+    "const_keyword_count": 1,
+    "constant_count": 43
+}

@@ -1,0 +1,14 @@
+{
+    "comment_percentage": 7.84,
+    "cyclomatic_complexity": 4,
+    "variable_counts": {
+        "stack": 3,
+        "N": 3,
+        "answer": 10,
+        "n": 2,
+        "remain": 2,
+        "current": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 13
+}

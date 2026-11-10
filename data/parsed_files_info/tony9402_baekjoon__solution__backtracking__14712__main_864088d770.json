@@ -1,0 +1,17 @@
+{
+    "comment_percentage": 9.52,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "Map": 5,
+        "y": 6,
+        "x": 6,
+        "usedCnt": 5,
+        "N": 1,
+        "M": 3,
+        "answer": 1,
+        "go": 3,
+        "check": 1
+    },
+    "const_keyword_count": 0,
+    "constant_count": 15
+}

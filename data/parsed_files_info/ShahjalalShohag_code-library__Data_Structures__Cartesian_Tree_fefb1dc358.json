@@ -1,0 +1,28 @@
+{
+    "comment_percentage": 31.65,
+    "cyclomatic_complexity": 14,
+    "variable_counts": {
+        "N": 7,
+        "l": 5,
+        "u": 4,
+        "sz": 4,
+        "dfs": 3,
+        "r": 5,
+        "ans": 4,
+        "inv": 5,
+        "mod": 6,
+        "tot": 4,
+        "i": 28,
+        "n": 7,
+        "vis": 4,
+        "k": 9,
+        "st": 4,
+        "rt": 3,
+        "t": 2,
+        "x": 2,
+        "a": 1,
+        "cartesian_tree": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 28
+}

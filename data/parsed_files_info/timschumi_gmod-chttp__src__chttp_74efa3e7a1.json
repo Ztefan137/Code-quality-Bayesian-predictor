@@ -1,0 +1,19 @@
+{
+    "comment_percentage": 10.82,
+    "cyclomatic_complexity": 10,
+    "variable_counts": {
+        "LUA": 16,
+        "request_index": 3,
+        "initial_top": 1,
+        "number_of_values": 2,
+        "failreason_length": 2,
+        "result": 3,
+        "failreason": 1,
+        "getenv": 3,
+        "disable_update_notification": 2,
+        "disable_telemetry": 2,
+        "force_hook": 2
+    },
+    "const_keyword_count": 3,
+    "constant_count": 27
+}

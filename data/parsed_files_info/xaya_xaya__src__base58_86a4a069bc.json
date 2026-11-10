@@ -1,0 +1,18 @@
+{
+    "comment_percentage": 14.2,
+    "cyclomatic_complexity": 14,
+    "variable_counts": {
+        "psz": 12,
+        "zeroes": 4,
+        "max_ret_len": 2,
+        "strlen": 1,
+        "carry": 3,
+        "_wassert": 1,
+        "length": 2,
+        "i": 1,
+        "vch": 1,
+        "vchRet": 3
+    },
+    "const_keyword_count": 8,
+    "constant_count": 22
+}

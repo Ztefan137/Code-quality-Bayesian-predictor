@@ -1,0 +1,20 @@
+{
+    "comment_percentage": 5.77,
+    "cyclomatic_complexity": 2,
+    "variable_counts": {
+        "MAXN": 4,
+        "DP": 3,
+        "cur": 5,
+        "cost": 1,
+        "used": 1,
+        "i": 2,
+        "n": 1,
+        "graph": 2,
+        "a": 2,
+        "b": 2,
+        "dfs": 1,
+        "trace": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 11
+}

@@ -1,0 +1,16 @@
+{
+    "comment_percentage": 7.12,
+    "cyclomatic_complexity": 13,
+    "variable_counts": {
+        "role": 1,
+        "ctrl": 2,
+        "file_exists": 1,
+        "kRecordsSize": 1,
+        "journal": 5,
+        "pod": 4,
+        "roleId": 2,
+        "invalid_argument": 1
+    },
+    "const_keyword_count": 16,
+    "constant_count": 7
+}

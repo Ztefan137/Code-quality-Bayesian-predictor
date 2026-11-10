@@ -1,0 +1,14 @@
+{
+    "comment_percentage": 17.25,
+    "cyclomatic_complexity": 8,
+    "variable_counts": {
+        "dataStart": 19,
+        "event": 12,
+        "length": 10,
+        "subtype": 1,
+        "type": 1,
+        "lastEventTypeByte": 1
+    },
+    "const_keyword_count": 7,
+    "constant_count": 20
+}

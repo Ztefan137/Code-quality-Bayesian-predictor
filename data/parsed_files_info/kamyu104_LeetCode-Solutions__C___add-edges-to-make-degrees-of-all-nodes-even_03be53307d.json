@@ -1,0 +1,11 @@
+{
+    "comment_percentage": 8.11,
+    "cyclomatic_complexity": 8,
+    "variable_counts": {
+        "u": 5,
+        "n": 2,
+        "odds": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 5
+}

@@ -1,0 +1,21 @@
+{
+    "comment_percentage": 45.32,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "allocated_": 3,
+        "malloc": 1,
+        "allocation_size": 1,
+        "free": 1,
+        "block": 1,
+        "allocated": 2,
+        "difference": 2,
+        "water": 2,
+        "argc": 2,
+        "argv": 2,
+        "check_for_leaks": 2,
+        "printf": 1,
+        "listeners": 1
+    },
+    "const_keyword_count": 2,
+    "constant_count": 10
+}

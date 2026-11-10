@@ -1,0 +1,10 @@
+{
+    "comment_percentage": 60.75,
+    "cyclomatic_complexity": 1,
+    "variable_counts": {
+        "kHelloString": 7,
+        "s": 3
+    },
+    "const_keyword_count": 5,
+    "constant_count": 8
+}

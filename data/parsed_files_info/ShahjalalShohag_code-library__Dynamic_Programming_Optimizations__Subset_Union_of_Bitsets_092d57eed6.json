@@ -1,0 +1,24 @@
+{
+    "comment_percentage": 7.02,
+    "cyclomatic_complexity": 16,
+    "variable_counts": {
+        "N": 5,
+        "i": 28,
+        "n": 8,
+        "m": 6,
+        "j": 7,
+        "X": 2,
+        "x": 2,
+        "Y": 2,
+        "y": 2,
+        "r": 2,
+        "msk": 2,
+        "dp": 5,
+        "mask": 10,
+        "ans": 8,
+        "cost": 2,
+        "c": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 38
+}

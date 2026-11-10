@@ -1,0 +1,27 @@
+{
+    "comment_percentage": 14.88,
+    "cyclomatic_complexity": 14,
+    "variable_counts": {
+        "N": 3,
+        "i": 17,
+        "n": 7,
+        "top": 1,
+        "ord": 1,
+        "u": 8,
+        "ans": 3,
+        "nw": 1,
+        "mn": 2,
+        "vis": 1,
+        "mex": 2,
+        "t": 1,
+        "m": 2,
+        "g": 3,
+        "v": 5,
+        "a": 1,
+        "b": 1,
+        "edges": 2,
+        "ok": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 17
+}

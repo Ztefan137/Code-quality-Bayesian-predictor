@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 15.38,
+    "cyclomatic_complexity": 5,
+    "variable_counts": {
+        "ch": 3,
+        "pipe_stack": 4,
+        "is_opened": 5,
+        "total": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 7
+}

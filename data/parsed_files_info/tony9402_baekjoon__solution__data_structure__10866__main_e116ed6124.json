@@ -1,0 +1,13 @@
+{
+    "comment_percentage": 5.45,
+    "cyclomatic_complexity": 12,
+    "variable_counts": {
+        "i": 2,
+        "N": 1,
+        "cmd": 8,
+        "dq": 6,
+        "X": 2
+    },
+    "const_keyword_count": 0,
+    "constant_count": 10
+}

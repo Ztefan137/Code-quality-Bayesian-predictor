@@ -1,0 +1,30 @@
+{
+    "comment_percentage": 2.82,
+    "cyclomatic_complexity": 12,
+    "variable_counts": {
+        "mod": 13,
+        "n": 14,
+        "k": 7,
+        "ans": 15,
+        "N": 6,
+        "fac": 6,
+        "ifac": 6,
+        "ncr": 1,
+        "i": 19,
+        "solve": 1,
+        "total_balls": 5,
+        "count_balls": 5,
+        "target": 1,
+        "which": 5,
+        "yo": 4,
+        "alpha": 10,
+        "beta": 10,
+        "val": 10,
+        "a": 2,
+        "inf": 1,
+        "power": 1,
+        "t": 1
+    },
+    "const_keyword_count": 1,
+    "constant_count": 40
+}

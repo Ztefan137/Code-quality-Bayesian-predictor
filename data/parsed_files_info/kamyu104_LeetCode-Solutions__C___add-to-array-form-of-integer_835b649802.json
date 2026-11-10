@@ -1,0 +1,12 @@
+{
+    "comment_percentage": 8.0,
+    "cyclomatic_complexity": 3,
+    "variable_counts": {
+        "K": 1,
+        "A": 6,
+        "i": 8,
+        "carry": 6
+    },
+    "const_keyword_count": 0,
+    "constant_count": 5
+}
